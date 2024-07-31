@@ -14,7 +14,7 @@ First, ensure you have the necessary dependencies installed:
 
 ```bash
 pip install -r requirements.txt
-
+```
 ### Creating the Knowledge Base
 
 Before you can start asking questions, you need to create the knowledge base. Run the following script to populate the local knowledge base:
