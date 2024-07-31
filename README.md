@@ -34,6 +34,7 @@ Once the knowledge base is created, you can use the following script to ask ques
 python ask_question_with_rag.py
 ```
 
+
 ## File Descriptions
 
 - `populate_database.py`: Script to create and populate the local knowledge base.
