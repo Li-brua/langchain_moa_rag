@@ -15,6 +15,8 @@ First, ensure you have the necessary dependencies installed:
 ```bash
 pip install -r requirements.txt
 ```
+Get your Together [API Key](https://api.together.xyz/settings/api-keys).
+
 ### Creating the Knowledge Base
 
 Before you can start asking questions, you need to create the knowledge base. Run the following script to populate the local knowledge base:
