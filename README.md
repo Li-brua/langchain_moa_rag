@@ -5,6 +5,8 @@ This repository is based on the **LangChain** framework and features a custom **
 ## What is MoA?
 
 MoA (Mixture of Agents) is a novel approach that mixes multiple Large Language Model (LLM) agents to handle tasks without the need to adjust LLM parameters. Unlike the traditional MoE (Mixture of Experts) method, which typically involves parameter adjustments of expert models, MoA combines outputs from multiple models and feeds these outputs into an aggregation LLM to generate the final result. This approach allows for more flexible and efficient task handling. MoA supports various models, such as **LLaMA 3.1, GPT-4**, and others. You can reference the model zoo(https://docs.together.ai/docs/chat-models) for available models. If a model is not present, you will need to deploy it yourself outside of the together library. Future updates will include improvements to this section of the code.
+![MoA overview](https://github.com/togethercomputer/MoA/blob/main/assets/moa-3layer.png)
+
 
 ## Usage Guide
 
