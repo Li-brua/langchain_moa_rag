@@ -2,7 +2,7 @@ import time
 import together
 from together import Together
 
-api = "xxx" # see readme about how to get api.
+api = "xxx" # see readme about how to get api
 
 client = Together(api_key=api)
 
